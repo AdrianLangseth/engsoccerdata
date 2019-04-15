@@ -1,4 +1,4 @@
-"","country","name","name_other","most_recent"
+"id","country","name","name_other","most_recent"
 "1","England","Sutton United","Sutton United",NA
 "2","England","Aberdare Athletic","Aberdare Athletic",NA
 "3","England","Aberdare Athletic","Aat",NA
@@ -1406,4 +1406,4 @@
 "1405","Portugal","Oliveirense","Oliveirense",TRUE
 "1406","Portugal","Academica","Academica",TRUE
 "1407","Portugal","Mafra","Mafra",TRUE 
-"1407","Portugal","CD Cova da Piedade","CD Cova da Piedade",TRUE 
+"1408","Portugal","CD Cova da Piedade","CD Cova da Piedade",TRUE
